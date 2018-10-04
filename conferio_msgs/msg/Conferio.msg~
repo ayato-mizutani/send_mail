@@ -5,4 +5,5 @@ string b_RoomName
 string b_Date
 string b_StartTime
 string b_FinishTime
+string b_Time
 string b_Address
